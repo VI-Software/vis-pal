@@ -1,0 +1,22 @@
+.browser-error {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+.error-card {
+    max-width: 600px;
+    width: 100%;
+    padding: 40px;
+    background-color: rgba(33, 37, 41, 0.95);
+}
+.edge-logo {
+    width: 164px;
+    margin-bottom: 20px;
+}
+.card-title, .card-text {
+    color: white;
+}
